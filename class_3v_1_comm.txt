@@ -1,0 +1,41 @@
+create a new branch
+---------------------------
+git branch branch1
+
+
+switch a branch
+-----------------------
+git checkout branch name
+
+create a branch and swich branch
+----------------------------------
+git checkout -b branch3
+
+
+for see two branch differch
+----------------------------------------
+git diff master..branch1
+
+for merge two branch
+---------------------------------
+git merge branch1
+
+for merge more than twofile
+----------------------------------
+Merge branches 'branch2' and 'branch3'
+
+for back
+-----------------
+esc :wq
+
+for delete branch
+---------------------------
+git branch -d branch2
+
+
+for push more than one branch at a time
+----------------------------------------
+
+git push -u origin branch1 branch2 branch3
+
+
