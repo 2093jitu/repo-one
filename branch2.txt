@@ -1,0 +1,2 @@
+i am branch two
+i am only belongs to branch2
