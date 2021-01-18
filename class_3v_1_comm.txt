@@ -38,4 +38,12 @@ for push more than one branch at a time
 
 git push -u origin branch1 branch2 branch3
 
+for stash (save work temporare)
+------------------------------------------
+git stash
+
+for see stash list
+------------------------------------------
+git stash list
+
 
